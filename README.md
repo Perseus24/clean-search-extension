@@ -6,7 +6,7 @@ Automatically removes AI Overviews and summaries from search results.
 This extension is not available at Chrome Web Store. Ongoing in Firefox.
 
 ### For Chrome / Edge
-1. Download the `.zip` file from the [Releases](../../releases) page and extract it.
+1. Download the `.rar file from the [Releases](../../releases) page and extract it.
 2. Open your browser and go to `chrome://extensions/` (or `edge://extensions`).
 3. Enable **Developer mode** in the top right cornter.
 4. Click **Load unpacked** in the top left.
